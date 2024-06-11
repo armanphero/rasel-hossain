@@ -1,0 +1,126 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/fb-prof/fb1.jpg",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/fb-prof/fb2.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/fb-prof/fb3.jpg",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "4",
+      "src": "./img/fb-prof/fb4.jpg",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "5",
+      "src": "./img/fb-prof/fb5.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "6",
+      "src": "./img/fb-prof/fb6.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "google": [
+    {
+      "id": "1",
+      "src": "./img/google-prof/g1.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/google-prof/g2.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/google-prof/g3.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "4",
+      "src": "./img/google-prof/g4.jpg",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/clients/client1.jpg",
+      "description": "Mitu, your digital marketing skills are top-notch! Clients love your innovative strategies and impressive results. Keep up the great work!",
+      "author_name": "Dianne Russel",
+      "author_designation": "Big Leap"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/clients/client2.jpg",
+      "description": "Your digital marketing skills are top-notch! Clients love your innovative strategies and impressive results. Keep up the great work!",
+      "author_name": "Kristin Watson",
+      "author_designation": "Merkle"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/clients/client3.jpg",
+      "description": "Your digital marketing expertise, including SEO and Google marketing, is commendable! Clients value your innovative strategies and remarkable results. Keep up the great work!",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "KlientBoost"
+    },
+    {
+      "id": "4",
+      "count": "5",
+      "src": "./img/clients/client4.jpg",
+      "description": "Marketer Mitu,your digital marketing prowess, especially in SEO and Shopify, is truly commendable! I appreciate your innovative strategies and the remarkable results you consistently achieve. Keep up the great work!",
+      "author_name": "Maya Rodriguez",
+      "author_designation": "HubSpot"
+    },
+    {
+      "id": "5",
+      "count": "5",
+      "src": "./img/clients/client5.jpg",
+      "description": "Jannt Mitu,your knack for exceeding client demands in digital marketing is impressive. Your innovative approaches consistently deliver satisfying results, Great work!",
+      "author_name": "Adrian Marshall",
+      "author_designation": "WebFX"
+    },
+    {
+      "id": "6",
+      "count": "5",
+      "src": "./img/clients/client6.jpg",
+      "description": "Your digital marketing expertise consistently exceeds client expectations, showcasing your excellence in navigating the digital realm. Great work!",
+      "author_name": "Serena Bennett",
+      "author_designation": "Neil Digital"
+    }
+  ]
+}
