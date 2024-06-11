@@ -15,29 +15,29 @@ const About = () => {
                 </div>
                 <div className='col'>
                     <div className='about-description' data-aos="fade-up">
-                        <p className="unlock-text inline-block">About Marketer Mitu Socialzy</p>
+                        <p className="unlock-text inline-block">About Marketer Rasel Socialzy</p>
                         <h2 className='fs-1 fw-medium my-4 line-height-medium'>3+ Years Of Experiences In Social Media Marekting</h2>
                         {/* <h2></h2> */}
-                        <p className='lead mb-5'>Tap into Marketer Mitu's wealth of knowledge gained from 3+ years in social media marketing. Transform your business with effective strategies that drive engagement and growth.</p>
+                        <p className='lead mb-5'>Tap into Marketer Rasel's wealth of knowledge gained from 3+ years in social media marketing. Transform your business with effective strategies that drive engagement and growth.</p>
                         <div className='seo-div d-flex gap-4'>
                             <FontAwesomeIcon icon={faMagnifyingGlass} />
                             <div>
                                 <h5 className='mb-2'>Search Engine Optimization (SEO)</h5>
-                                <p>Enhance Visibility with Marketer Mitu's Search Engine Optimization Marketing Service</p>
+                                <p>Enhance Visibility with Marketer Rasel's Search Engine Optimization Marketing Service</p>
                             </div>
                         </div>
                         <div className='google-marketing-div'>
                             <FontAwesomeIcon icon={faGoogle} />
                             <div>
                                 <h5 className='mb-2'>Google Marketing</h5>
-                                <p>Achieve Success with Marketer Mitu's Google Ads Marketing Service.</p>
+                                <p>Achieve Success with Marketer Rasel's Google Ads Marketing Service.</p>
                             </div>
                         </div>
                         <div className='social-media-marketing-div d-flex gap-4 mt-5'>
                             <FontAwesomeIcon icon={faUsersLine} />
                             <div>
                                 <h5 className='mb-2'>Social Media Marketing</h5>
-                                <p>Strategic Impact Marketer Mitu's Proven Google Social Media Marketing Service.</p>
+                                <p>Strategic Impact Marketer Rasel's Proven Google Social Media Marketing Service.</p>
                             </div>
                         </div>
                     </div>

@@ -36,8 +36,8 @@ const Contact = () => {
                     <div className='contact-info' data-aos="zoom-in">
                         <div className='contact-info-text'>
                             <p className="unlock-text mb-2" style={{ display: 'inline-block' }}>CONTACT US</p>
-                            <h2 className='fs-1 fw-medium my-4 line-height-medium'>Get In Touch With Marketer Mitu</h2>
-                            <p className='lead mb-5'>Connect with Marketer Mitu. Reach Out Today for Expert Guidance in Elevating Your Business. Contact Us to Unleash the Power of Strategic Marketing Strategies.</p>
+                            <h2 className='fs-1 fw-medium my-4 line-height-medium'>Get In Touch With Marketer Rasel</h2>
+                            <p className='lead mb-5'>Connect with Marketer Rasel. Reach Out Today for Expert Guidance in Elevating Your Business. Contact Us to Unleash the Power of Strategic Marketing Strategies.</p>
                             <div className='social-contact row row-cols-1 row-cols-md-2 g-4'>
                                 <div className='single-social-contact'>
                                     <a href="https://api.whatsapp.com/send?phone=01629167685" target='_blank' className='whatsapp-contact contact-icon'><FontAwesomeIcon icon={faWhatsapp} /></a>
@@ -61,10 +61,10 @@ const Contact = () => {
                                     </div>
                                 </div>
                                 <div className='single-social-contact'>
-                                    <a href="mailto:jannatmitu@gmail.com" className='email-contact contact-icon'><FontAwesomeIcon icon={faEnvelope} /></a>
+                                    <a href="mailto:jannatRasel@gmail.com" className='email-contact contact-icon'><FontAwesomeIcon icon={faEnvelope} /></a>
                                     <div className='contact-link'>
                                         <h5>Email</h5>
-                                        <a href="mailto:jannatmitu@gmail.com">jannatmitu@gmail.com</a>
+                                        <a href="mailto:jannatRasel@gmail.com">jannatRasel@gmail.com</a>
                                     </div>
                                 </div>
                             </div>

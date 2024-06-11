@@ -9,8 +9,8 @@ const Prices = () => {
             <div>
                 <div className='prices-text text-center'>
                     <p className="unlock-text mb-2" style={{ display: 'inline-block' }}>Our Pricing</p>
-                    <h2 className='fs-1 fw-medium my-4 line-height-medium'>Marketer Mitu Provides The Best Price Just For You</h2>
-                    <p className='lead mb-5 section-subtitle'>Experience top-tier services with Marketer Mitu, delivering unmatched solutions tailored just for you. Elevate your success with expert assistance.</p>
+                    <h2 className='fs-1 fw-medium my-4 line-height-medium'>Marketer Rasel Provides The Best Price Just For You</h2>
+                    <p className='lead mb-5 section-subtitle'>Experience top-tier services with Marketer Rasel, delivering unmatched solutions tailored just for you. Elevate your success with expert assistance.</p>
                 </div>
                 <div className='prices-container row row-cols-1 row-cols-lg-3'>
                     <div className='col'>

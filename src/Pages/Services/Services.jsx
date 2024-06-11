@@ -5,27 +5,27 @@ const Services = () => {
         {
             img: './img/services/fb.png',
             service_name: 'Facebook Marketing',
-            service_description: "Achieve Lasting Business Success with Marketer Mitu's In-Depth Facebook Marketing Approaches"
+            service_description: "Achieve Lasting Business Success with Marketer Rasel's In-Depth Facebook Marketing Approaches"
         },
         {
             img: './img/services/seo.png',
             service_name: 'SEO Management',
-            service_description: "Stay Ahead in Search Engine Rankings with Marketer Mitu's Tailored SEO Management Strategies and Executio"
+            service_description: "Stay Ahead in Search Engine Rankings with Marketer Rasel's Tailored SEO Management Strategies and Executio"
         },
         {
             img: './img/services/google-marketing.png',
             service_name: 'Google Marketing',
-            service_description: "Optimize Your Brand's Reach and Engagement with Marketer Mitu's Targeted and Effective Google Marketing Strategies"
+            service_description: "Optimize Your Brand's Reach and Engagement with Marketer Rasel's Targeted and Effective Google Marketing Strategies"
         },
         {
             img: './img/services/email-marketing.png',
             service_name: 'Email Marketing',
-            service_description: "Harness the Power of Personalized Communication Marketer Mitu's Expert Guide to Effective Email Marketing Strategies"
+            service_description: "Harness the Power of Personalized Communication Marketer Rasel's Expert Guide to Effective Email Marketing Strategies"
         },
         {
             img: './img/services/Social-Media-Management.png',
             service_name: 'Social Media Management',
-            service_description: "Harness the Power of Personalized Communication Marketer Mitu's Expert Guide to Effective Email Marketing Strategies",
+            service_description: "Harness the Power of Personalized Communication Marketer Rasel's Expert Guide to Effective Email Marketing Strategies",
             class_name: 'different-service'
         }
     ]
@@ -34,8 +34,8 @@ const Services = () => {
             <div className='content-container'>
                 <div className='service-text text-center'>
                     <p className="unlock-text mb-2" style={{ display: 'inline-block' }}>OUR SERVICES</p>
-                    <h2 className='fs-1 fw-medium my-4 line-height-medium'>Marketer Mitu Provides The Best Service For You</h2>
-                    <p className='lead mb-5 section-subtitle' style={{ color: 'lightgray' }}>Experience top-tier services with Marketer Mitu, delivering unmatched solutions tailored just for you. Elevate your success with expert assistance.</p>
+                    <h2 className='fs-1 fw-medium my-4 line-height-medium'>Marketer Rasel Provides The Best Service For You</h2>
+                    <p className='lead mb-5 section-subtitle' style={{ color: 'lightgray' }}>Experience top-tier services with Marketer Rasel, delivering unmatched solutions tailored just for you. Elevate your success with expert assistance.</p>
                 </div>
                 <div className='row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5'>
                     <div className='col'>

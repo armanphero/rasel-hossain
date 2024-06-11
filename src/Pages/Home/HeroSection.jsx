@@ -6,8 +6,8 @@ export default function HeroSection() {
       <div id="heroSection" className="hero--section content-container">
         <div className="hero--section--content--box">
           <div className="hero--section--content">
-            <p className="unlock-text" data-aos="fade-right">Unlock Strategic Marketing with marketer Mitu</p>
-            <h2 className="" data-aos="zoom-in" data-aos-duration="2000">Hi, I'm Jannat Mitu</h2>
+            <p className="unlock-text" data-aos="fade-right">Unlock Strategic Marketing with marketer Rasel</p>
+            <h2 className="" data-aos="zoom-in" data-aos-duration="2000">Hi, I'm Rasel Hossain</h2>
             <h4 data-aos="zoom-in" data-aos-duration="2000">A Digital Marketing Strategist . Welcome to the hub of digital innovation!</h4>
             <p data-aos="zoom-in" data-aos-duration="2000">Ready to take your brand to new heights?  From engaging Facebook and Instagram ad campaigns that captivate your audience to optimizing YouTube channels for maximum visibility, and implementing data-driven Google marketing solutions - I'm here to elevate your brand's digital presence.</p>
           </div>
