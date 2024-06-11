@@ -40,31 +40,32 @@ const Contact = () => {
                             <p className='lead mb-5'>Connect with Marketer Rasel. Reach Out Today for Expert Guidance in Elevating Your Business. Contact Us to Unleash the Power of Strategic Marketing Strategies.</p>
                             <div className='social-contact row row-cols-1 row-cols-md-2 g-4'>
                                 <div className='single-social-contact'>
-                                    <a href="https://api.whatsapp.com/send?phone=01629167685" target='_blank' className='whatsapp-contact contact-icon'><FontAwesomeIcon icon={faWhatsapp} /></a>
+                                    <a href="https://api.whatsapp.com/send?phone=01609781896" target='_blank' className='whatsapp-contact contact-icon'><FontAwesomeIcon icon={faWhatsapp} /></a>
                                     <div className='contact-link'>
                                         <h5>WhatsApp</h5>
-                                        <a href="https://api.whatsapp.com/send?phone=01629167685" target='_blank'>01629167685</a>
+                                        <a href="https://api.whatsapp.com/send?phone=01609781896" target='_blank'>01609781896</a>
                                     </div>
                                 </div>
                                 <div className='single-social-contact'>
                                     <a href="https://www.linkedin.com/in/jannatul-ferdous-337019267/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwAR2kWiTISqm62vcQOOgLKAr4_B4C9JSYeyjxkmc-_dmOu1kpn0z5g8RB1no" target='_blank' className='linkdin-contact contact-icon'><FontAwesomeIcon icon={faLinkedin} /></a>
                                     <div className='contact-link'>
                                         <h5>Linkedin</h5>
-                                        <a href="https://www.linkedin.com/in/jannatul-ferdous-337019267/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwAR2kWiTISqm62vcQOOgLKAr4_B4C9JSYeyjxkmc-_dmOu1kpn0z5g8RB1no" target='_blank'>linkedin.com/in/jannatul-ferdous</a>
+                                        <a href="https://www.linkedin.com/in/adsexpert-rasel/" target='_blank'>linkedin.com/in/md-rasel-hossain
+</a>
                                     </div>
                                 </div>
                                 <div className='single-social-contact'>
                                     <a href="https://www.facebook.com/profile.php?id=61550255662761" target='_blank' className='facebook-contact contact-icon'><FontAwesomeIcon icon={faFacebook} /></a>
                                     <div className='contact-link'>
                                         <h5>Facebook</h5>
-                                        <a href="https://www.facebook.com/profile.php?id=61550255662761" target='_blank'>facebook.com/jannatul-ferdous</a>
+                                        <a href="https://www.facebook.com/adsexpert.proo/" target='_blank'>facebook.com/𝐀𝐝𝐬-𝐄𝐱𝐩𝐞𝐫𝐭(Rasel)</a>
                                     </div>
                                 </div>
                                 <div className='single-social-contact'>
                                     <a href="mailto:jannatRasel@gmail.com" className='email-contact contact-icon'><FontAwesomeIcon icon={faEnvelope} /></a>
                                     <div className='contact-link'>
                                         <h5>Email</h5>
-                                        <a href="mailto:jannatRasel@gmail.com">jannatRasel@gmail.com</a>
+                                        <a href="mailto:jannatRasel@gmail.com">raselHossain@gmail.com</a>
                                     </div>
                                 </div>
                             </div>

@@ -15,7 +15,7 @@ export default function HeroSection() {
         </div>
         <div className="hero--section--img" data-aos="zoom-in">
           <div className="hero-img-container">
-            <img src="./img/portrait-teenager-girl-blue-sweater-standing-smiling-happily2.jpg" alt="Hero Section" />
+            <img src="./img/profile-pic.png" alt="Hero Section" />
             <div className="hero-element-1" data-aos="fade-right" data-aos-duration="4500">
               <p className="hero-element-title">3</p><p className="hero-element-text">Years + experience</p>
             </div>

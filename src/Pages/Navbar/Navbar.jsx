@@ -122,9 +122,9 @@ function Navbar() {
             </li>
           </ul>
         </div>
-        <a href="https://api.whatsapp.com/send?phone=01629167685 " className="whatsapp text-success" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=01609781896" className="whatsapp text-success" target="_blank">
           <FontAwesomeIcon icon={faWhatsapp} />
-          <span>01629167685</span>
+          <span>01609781896</span>
         </a>
       </div>
     </nav>
