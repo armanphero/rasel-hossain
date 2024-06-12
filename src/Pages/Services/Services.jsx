@@ -19,8 +19,8 @@ const Services = () => {
         },
         {
             img: './img/services/email-marketing.png',
-            service_name: 'Email Marketing',
-            service_description: "Harness the Power of Personalized Communication Marketer Rasel's Expert Guide to Effective Email Marketing Strategies"
+            service_name: 'YouTube marketing',
+            service_description: "Harness the Power of Personalized Communication Marketer Rasel's Expert Guide to Effective YouTube marketing Strategies"
         },
         {
             img: './img/services/Social-Media-Management.png',

@@ -65,7 +65,7 @@ const Contact = () => {
                                     <a href="mailto:jannatRasel@gmail.com" className='email-contact contact-icon'><FontAwesomeIcon icon={faEnvelope} /></a>
                                     <div className='contact-link'>
                                         <h5>Email</h5>
-                                        <a href="mailto:jannatRasel@gmail.com">raselHossain@gmail.com</a>
+                                        <a href="mailto:raselhossain15500@gmail.com">raselhossain15500@gmail.com</a>
                                     </div>
                                 </div>
                             </div>
